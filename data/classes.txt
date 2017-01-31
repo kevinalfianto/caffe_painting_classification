@@ -1,0 +1,14 @@
+0 PainterName
+1 Edelfelt_Albert
+2 El_Greco
+3 Gallen-Kallela_Akseli
+4 Gauguin_Paul
+5 Goya_Francisco
+6 Klee_Paul
+7 Mondrian_Piet
+8 Monet_Claude-Oscar
+9 Rembrandt(van_Rijn_Rembrandt_Harmenszoon)
+10 Renoir_Pierre-Auguste
+11 Rubens_Peter_Paul
+12 Schiele_Egon
+13 Titian(Vecellio, Tiziano)
